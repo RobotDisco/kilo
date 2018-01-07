@@ -4,5 +4,11 @@
 # Editor artifacts
 *~
 
+# xTAGS artifacts
+GPATH
+GRTAGS
+GTAGS
+TAGS
+
 # The final executiable
 kilo
